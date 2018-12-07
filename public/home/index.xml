@@ -85,11 +85,11 @@
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Presentations</title>
-      <link>/home/talks/</link>
+      <title>Projects</title>
+      <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
       
-      <guid>/home/talks/</guid>
+      <guid>/home/projects/</guid>
       <description></description>
     </item>
     
@@ -103,11 +103,11 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/home/projects/</link>
+      <title>Recent &amp; Upcoming Presentations</title>
+      <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
       
-      <guid>/home/projects/</guid>
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     

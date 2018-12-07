@@ -1,29 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cycling-science on Ross Wilkinson</title>
+    <title>cycling science on Ross Wilkinson</title>
     <link>/tags/cycling-science/</link>
-    <description>Recent content in cycling-science on Ross Wilkinson</description>
+    <description>Recent content in cycling science on Ross Wilkinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 01 Apr 2016 00:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +1000</lastBuildDate>
     
 	<atom:link href="/tags/cycling-science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>PhD Thesis</title>
-      <link>/project/phd-project/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +1000</pubDate>
+      <title>Cycling in a non-seated position reduces the mechanical requirements of the knee joint</title>
+      <link>/talk/2018acsm/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +1000</pubDate>
       
-      <guid>/project/phd-project/</guid>
-      <description>THE EFFECT OF LATERAL BICYCLE SWAY AND RIDING POSTURE ON MECHANICAL EFFECTIVENESS AND EFFICIENCY IN CYCLING
-Cyclists often spontaneously switch from a seated to non-seated position when they need to produce high pedal torque and power (i.e. during steep climbs, accelerations and sprinting). Existing evidence shows that adopting a non-seated position can improve uphill time trial performance and increase peak power output during sprint cycling, yet the mechanisms underpinning these performance advantages remain unclear.</description>
+      <guid>/talk/2018acsm/</guid>
+      <description></description>
     </item>
     
-  </channel>
-</rss>18 00:00:00 +1000</pubDate>
+    <item>
+      <title>Mechanical energetics relating to rider centre of mass motion during non-seated cycling</title>
+      <link>/talk/2018asb/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +1000</pubDate>
+      
+      <guid>/talk/2018asb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sit, stand, rock and roll: towards optimal pedalling posture</title>
+      <link>/talk/2018cyclingsciencesymposium/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +1000</pubDate>
       
       <guid>/talk/2018cyclingsciencesymposium/</guid>
       <description></description>
