@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ross Wilkinson</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Ross Wilkinson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Apr 2016 00:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PhD Thesis</title>
+      <link>/project/phd-project/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/project/phd-project/</guid>
+      <description>THE EFFECT OF LATERAL BICYCLE SWAY AND RIDING POSTURE ON MECHANICAL EFFECTIVENESS AND EFFICIENCY IN CYCLING
+Cyclists often spontaneously switch from a seated to non-seated position when they need to produce high pedal torque and power (i.e. during steep climbs, accelerations and sprinting). Existing evidence shows that adopting a non-seated position can improve uphill time trial performance and increase peak power output during sprint cycling, yet the mechanisms underpinning these performance advantages remain unclear.</description>
+    </item>
+    
+  </channel>
+</rss>
